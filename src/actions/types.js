@@ -1,0 +1,3 @@
+export const GET_SHIPS = 'GET_SHIPS';
+export const GET_SHIPS_SUCCESS = 'GET_SHIPS_SUCCESS';
+export const GET_SHIPS_FAILURE = 'GET_SHIPS_FAILURE';
